@@ -1,0 +1,11 @@
+6bf29c32bd2640699d123cbf078389a3 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+77871bb421652636eb4101a87c88cff0 *R/doc_dataset_inventory.R
+9f29e855166d13aaca969a2f645c2eac *R/doc_package_inventory.R
+efde3b8984d1185adae89af973a6feef *R/inventory.R
+1fe2bcf74dd7a44793064ad69a0b6b8c *data/inventory.tab.gz
+76ada2b18bb860c4382321ca69c1102a *man/FI.Rd
+a03fbdb302f98e250e108fdc4d1a5604 *man/ff.Rd
+c2dfc3c8e16a927299a7f24862087eaa *man/inventory.Rd
+781e3b4bb341d26a1b88bb83dd9e40ad *man/sf.Rd
+aab34beeb0789f3cd302825b9e4a1626 *man/volume.Rd
